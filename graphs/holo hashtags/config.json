@@ -38,7 +38,8 @@
       "defaultLabelSize": 8,
       "labelSize": "fixed",
       "fontStyle": "",
-      "edgeColor": "source"
+      "edgeColor": "source",
+      "labelThreshold": 6
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
