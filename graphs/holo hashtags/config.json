@@ -38,13 +38,13 @@
       "defaultLabelSize": 10,
       "labelSize": "fixed",
       "fontStyle": "",
-      "edgeColor": "source"
+      "edgeColor": "#282C34"
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 100
     },
     "mouseProperties": {
       "maxRatio": 20,
