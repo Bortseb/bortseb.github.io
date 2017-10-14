@@ -36,7 +36,8 @@
       "defaultLabelHoverColor": "#fff",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 24,
-      "labelSize": "fixed"
+      "labelSize": "fixed",
+      "fontStyle": "",
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
