@@ -35,11 +35,10 @@
       "defaultLabelColor": "#000",
       "defaultLabelHoverColor": "#fff",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 8,
+      "defaultLabelSize": 10,
       "labelSize": "fixed",
       "fontStyle": "",
-      "edgeColor": "source",
-      "labelThreshold": 6
+      "edgeColor": "source"
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
