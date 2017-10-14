@@ -35,7 +35,7 @@
       "defaultLabelColor": "#000",
       "defaultLabelHoverColor": "#fff",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14,
+      "defaultLabelSize": 8,
       "labelSize": "fixed",
       "fontStyle": "",
       "edgeColor": "source"
