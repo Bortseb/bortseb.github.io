@@ -37,7 +37,8 @@
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14,
       "labelSize": "fixed",
-      "fontStyle": ""
+      "fontStyle": "",
+      "edgeColor": "source"
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
