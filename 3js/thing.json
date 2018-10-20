@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"geometries": [
+		{
+			"uuid": "BE0BD53A-5B80-4657-8C76-9B26310FBCA5",
+			"type": "TorusBufferGeometry",
+			"radius": 1,
+			"tube": 0.4,
+			"radialSegments": 8,
+			"tubularSegments": 6,
+			"arc": 6.283185
+		}],
+	"materials": [
+		{
+			"uuid": "0FB17246-5E44-4DCC-99FC-74B7D5BE885D",
+			"type": "MeshStandardMaterial",
+			"color": 16777215,
+			"roughness": 0.5,
+			"metalness": 0.5,
+			"emissive": 0,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true
+		}],
+	"object": {
+		"uuid": "51E1CE47-AD48-4D21-8FBD-5F6595EA6386",
+		"type": "Mesh",
+		"name": "Torus",
+		"layers": 1,
+		"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
+		"geometry": "BE0BD53A-5B80-4657-8C76-9B26310FBCA5",
+		"material": "0FB17246-5E44-4DCC-99FC-74B7D5BE885D"
+	}
+}
