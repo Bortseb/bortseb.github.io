@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>Jan 10, 2019 1:01:35 AM</dateCreated>
+    <dateModified>Jan 10, 2019 1:01:35 AM</dateModified>
+  </head>
+  <body>
+    <outline text="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.org" />
+    <outline text="A New and Ancient Story: The Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:25399697/sounds.rss" htmlUrl="http://www.charleseisenstein.net" />
+    <outline text="a16z" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss" htmlUrl="http://www.a16z.com" />
+    <outline text="Aubrey Marcus Podcast" type="rss" xmlUrl="https://rss.art19.com/aubrey-marcus-podcast" htmlUrl="https://art19.com/shows/aubrey-marcus-podcast" />
+    <outline text="C-Realm Podcast" type="rss" xmlUrl="https://c-realm.com/category/podcasts/crealm/feed/" htmlUrl="http://c-realm.com/category/podcasts/crealm/" />
+    <outline text="Conversations with Tyler" type="rss" xmlUrl="http://cowenconvos.libsyn.com/rss" htmlUrl="http://www.conversationswithtyler.com" />
+    <outline text="Cool Tools" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:119072556/sounds.rss" htmlUrl="http://cool-tools.org/" />
+    <outline text="DatCast" type="rss" xmlUrl="https://dat-cast.hashbase.io/feed.xml" htmlUrl="https://dat-cast.hashbase.io/" />
+    <outline text="Edge.org" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:65424416/sounds.rss" htmlUrl="http://www.edge.org" />
+    <outline text="Emerge: Making Sense of What's Next" type="rss" xmlUrl="https://anchor.fm/s/21bc734/podcast/rss" htmlUrl="https://anchor.fm/emerge" />
+    <outline text="Expanding Mind" type="rss" xmlUrl="http://feeds.feedburner.com/ExpandingMindPodcast" htmlUrl="https://expandingmind.podbean.com" />
+    <outline text="FUTURE FOSSILS" type="rss" xmlUrl="https://feed.pippa.io/public/shows/futurefossils" htmlUrl="http://patreon.com/michaelgarfield" />
+    <outline text="Future Thinkers Podcast" type="rss" xmlUrl="http://futurethinkers.libsyn.com/rss" htmlUrl="http://futurethinkers.org" />
+    <outline text="Governing the Future" type="rss" xmlUrl="https://feeds.buzzsprout.com/104117.rss" htmlUrl="http://www.hajak.se" />
+    <outline text="How Soon Is Now with Daniel Pinchbeck" type="rss" xmlUrl="http://howsoonisnow.libsyn.com/rss" htmlUrl="http://howsoonisnow.libsyn.com/podcast" />
+    <outline text="Ideas from CBC Radio (Highlights)" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/ideas.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/documentaries/the-best-of-ideas/" />
+    <outline text="It's All Happening" type="rss" xmlUrl="http://itsallhappeningshow.libsyn.com/rss" htmlUrl="http://www.zachleary.com" />
+    <outline text="Joi Ito" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:2015135/sounds.rss" htmlUrl="http://joi.ito.com/" />
+    <outline text="MetaCurrency" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:51931015/sounds.rss" htmlUrl="http://soundcloud.com/metacurrency" />
+    <outline text="On Being with Krista Tippett" type="rss" xmlUrl="https://onbeing.org/podcasts/podcast.xml" htmlUrl="https://onbeing.org" />
+    <outline text="Philosophy Bites" type="rss" xmlUrl="http://philosophybites.libsyn.com/rss" htmlUrl="http://www.philosophybites.com" />
+    <outline text="Psychedelic Salon" type="rss" xmlUrl="http://feeds.feedburner.com/matrixmasters/iGAG" htmlUrl="https://www.psychedelicsalon.com" />
+    <outline text="Review The Future" type="rss" xmlUrl="http://feeds.feedburner.com/reviewthefuture" htmlUrl="http://reviewthefuture.com" />
+    <outline text="Singularity 1 on 1" type="rss" xmlUrl="http://www.singularityweblog.com/feed/podcast" htmlUrl="https://www.singularityweblog.com" />
+    <outline text="StarTalk Radio" type="rss" xmlUrl="https://rss.art19.com/startalk-radio" htmlUrl="https://art19.com/shows/startalk-radio" />
+    <outline text="Stuff You Should Know" type="rss" xmlUrl="https://feeds.megaphone.fm/stuffyoushouldknow" htmlUrl="https://www.howstuffworks.com" />
+    <outline text="Team Human" type="rss" xmlUrl="https://feed.pippa.io/public/shows/teamhuman" htmlUrl="http://teamhuman.fm/feed/episodes" />
+    <outline text="TED Radio Hour" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510298" htmlUrl="https://www.npr.org/programs/ted-radio-hour/" />
+    <outline text="The Joe Rogan Experience" type="rss" xmlUrl="http://joeroganexp.joerogan.libsynpro.com/rss" htmlUrl="http://blog.joerogan.net" />
+    <outline text="The Knowledge Project with Shane Parrish" type="rss" xmlUrl="http://theknowledgeproject.libsyn.com/rss" htmlUrl="https://fs.blog/the-knowledge-project/" />
+    <outline text="The Long Now Foundation" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:12159159/sounds.rss" htmlUrl="http://longnow.org" />
+    <outline text="The Next Billion Seconds" type="rss" xmlUrl="http://www.podcastone.com.au/podcast?categoryID2=8016" htmlUrl="https://www.podcastone.com.au/the-next-billion-seconds" />
+    <outline text="The Next System Podcast" type="rss" xmlUrl="http://nextsystem.libsyn.com/rss" htmlUrl="http://thenextsystem.org/" />
+    <outline text="The Tim Ferriss Show" type="rss" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl="https://tim.blog/podcast" />
+    <outline text="Under The Skin with Russell Brand" type="rss" xmlUrl="https://feeds.megaphone.fm/LM1344278906" htmlUrl="https://www.russellbrand.com/podcasts/" />
+    <outline text="Upstream" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:200783566/sounds.rss" htmlUrl="http://www.upstreampodcast.org" />
+    <outline text="Very Bad Wizards" type="rss" xmlUrl="https://verybadwizards.fireside.fm/rss" htmlUrl="https://verybadwizards.fireside.fm" />
+    <outline text="Voices in AI" type="rss" xmlUrl="https://voicesinai.com/show/voices-in-ai/podcast-feed/" htmlUrl="https://voicesinai.com/show/voices-in-ai/" />
+    <outline text="Waking Up with Sam Harris" type="rss" xmlUrl="http://wakingup.libsyn.com/rss" htmlUrl="http://www.samharris.org" />
+    <outline text="You Are Not So Smart" type="rss" xmlUrl="https://youarenotsosmart.com/feed/" htmlUrl="https://youarenotsosmart.com" />
+  </body>
+</opml>
